@@ -1,24 +1,24 @@
-# 🐍 Snake Game Pro
-
-## 📌 Description
+ Snake Game Pro
+ 
+ Description
 
 Snake Game Pro is a modern version of the classic Snake Game built using HTML, CSS, and JavaScript. The game includes smooth controls, increasing difficulty, score tracking, and a clean user interface.
 
 ---
 
-## 🚀 Features
+ Features
 
-* 🎮 Start Game & Restart Button
-* 🐍 Smooth Snake Movement
-* 🍎 Random Food Generation
-* 📈 Score Tracking System
-* 🏆 High Score saved using Local Storage
-* ⚡ Increasing Speed (Difficulty Level)
-* 💻 Responsive and Clean UI
+*  Start Game & Restart Button
+*  Smooth Snake Movement
+*  Random Food Generation
+*  Score Tracking System
+*  High Score saved using Local Storage
+* Increasing Speed (Difficulty Level)
+*  Responsive and Clean UI
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 * HTML
 * CSS
@@ -26,7 +26,7 @@ Snake Game Pro is a modern version of the classic Snake Game built using HTML, C
 
 ---
 
-## ▶️ How to Run
+How to Run
 
 1. Download or clone this repository
 2. Open the folder
@@ -35,7 +35,7 @@ Snake Game Pro is a modern version of the classic Snake Game built using HTML, C
 
 ---
 
-## 🎮 Controls
+ Controls
 
 * ⬆️ Arrow Up → Move Up
 * ⬇️ Arrow Down → Move Down
@@ -44,7 +44,7 @@ Snake Game Pro is a modern version of the classic Snake Game built using HTML, C
 
 
 
-## 📚 What I Learned
+ What I Learned
 
 * Handling user input with keyboard events
 * Game loop using JavaScript (`setInterval`)
@@ -54,16 +54,16 @@ Snake Game Pro is a modern version of the classic Snake Game built using HTML, C
 
 ---
 
-## 🔮 Future Improvements
+ Future Improvements
 
-* 📱 Mobile Touch Controls
-* 🔊 Sound Effects
-* 🎨 Theme Switcher (Dark/Light Mode)
-* 🏆 Online Leaderboard
+*  Mobile Touch Controls
+*  Sound Effects
+*  Theme Switcher (Dark/Light Mode)
+* Online Leaderboard
 
 ---
 
-## 🙌 Conclusion
+## Conclusion
 
 This project helped me understand the basics of game development and improved my JavaScript logic building skills.
 
